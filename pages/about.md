@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-This collection features videos and photos of various libraries across the Norther suburbs of Chicago. The Northern suburbs of Chicago are notoriously home to some of the most affluent communities in the country and this wealth is explemified in their libraries. This collection is meant to highlight the interesting architecture, vast collections, and beautiful art at the libraries in these communities. 
+This collection features videos and photos of various libraries across the Norther suburbs of Chicago. The Northern suburbs of Chicago are notoriously home to some of the most affluent communities in the country and this wealth is explemified in their libraries. This collection is meant to highlight the interesting architecture, vast collections, and beautiful art at the libraries in these communities. This collection is meant to serve as a guide for people who enjoy or are interested in exploring libraries in the area. 
 
 ## About the Author
 
